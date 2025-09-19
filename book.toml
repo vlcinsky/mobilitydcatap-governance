@@ -1,0 +1,5 @@
+[book]
+authors = ["Ed Ooms", "Peter Lubrich", "Petr Bureš", "Rodolfo Da Silva"]
+language = "en"
+src = "src"
+title = "Governance and Maintenance of mobilityDCAT-AP"
